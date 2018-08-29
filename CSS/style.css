@@ -1,0 +1,31 @@
+body{
+  background-image: linear-gradient(deeppink, yellow);
+  border: 8px groove blue;
+
+
+}
+
+h1{
+  color:Darkmagenta;
+  font-size: 30;
+
+}
+
+h2{
+  color:gold ;
+}
+
+h3{
+  color:fuchsia;
+  font-size: 15;
+}
+
+h4{
+  color:gold;
+}
+
+img{
+      border: 3px dotted yellow;
+
+      width: 20%;
+    }
